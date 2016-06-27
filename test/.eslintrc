@@ -3,5 +3,6 @@
         "mocha": true
     },
     "globals": {
+        "MarkdownService": false
     }
 }

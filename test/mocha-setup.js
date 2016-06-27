@@ -18,11 +18,10 @@
 
 const chai = require('chai');
 
-chai.use(require('chai-as-promised'));
 chai.config.includeStack = false;
 
 global.expect = chai.expect;
 global.should = chai.should();
 global.assert = chai.assert;
 
-global.nock = require('nock');
+global.MarkdownService = require('../lib/markdown-service.js');
