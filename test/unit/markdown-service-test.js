@@ -88,102 +88,194 @@ describe('Markdown Service', () => {
         response.should.equal(expectedResponse);
     });
 
-    it('Should remove <em> tags if they surround only spaces', () => {
+    it('should remove <em> tags if they surround only spaces', () => {
         const response = this.markdownService.format('<em>  </em>'),
             expectedResponse = '';
 
         response.should.equal(expectedResponse);
     });
 
-    it('Should remove <em> tags if they surround only tabs', () => {
+    it('should remove <em> tags if they surround only tabs', () => {
         const response = this.markdownService.format('<em>\t\t</em>'),
             expectedResponse = '';
 
         response.should.equal(expectedResponse);
     });
 
-    it('Should remove <em> tags if they surround only new lines', () => {
+    it('should remove <em> tags if they surround only new lines', () => {
         const response = this.markdownService.format('<em>\n\n</em>'),
             expectedResponse = '';
 
         response.should.equal(expectedResponse);
     });
 
-    it('Should remove <em> tags if they surround combinations of whitespace', () => {
+    it('should remove <em> tags if they surround combinations of whitespace', () => {
         const response = this.markdownService.format('<em>  \t  \n \t</em>'),
             expectedResponse = '';
 
         response.should.equal(expectedResponse);
     });
 
-    it('Should remove <strong> tags if they surround only spaces', () => {
+    it('should remove <strong> tags if they surround only spaces', () => {
         const response = this.markdownService.format('<strong>  </strong>'),
             expectedResponse = '';
 
         response.should.equal(expectedResponse);
     });
 
-    it('Should remove <strong> tags if they surround only tabs', () => {
+    it('should remove <strong> tags if they surround only tabs', () => {
         const response = this.markdownService.format('<strong>\t\t</strong>'),
             expectedResponse = '';
 
         response.should.equal(expectedResponse);
     });
 
-    it('Should remove <strong> tags if they surround only new lines', () => {
+    it('should remove <strong> tags if they surround only new lines', () => {
         const response = this.markdownService.format('<strong>\n\n</strong>'),
             expectedResponse = '';
 
         response.should.equal(expectedResponse);
     });
 
-    it('Should remove <strong> tags if they surround combinations of whitespace', () => {
+    it('should remove <strong> tags if they surround combinations of whitespace', () => {
         const response = this.markdownService.format('<strong>  \t  \n \t</strong>'),
             expectedResponse = '';
 
         response.should.equal(expectedResponse);
     });
 
-    it('Should remove <sub> tags since there is no markdown equivalent', () => {
+    it('should remove <sub> tags since there is no markdown equivalent', () => {
         const response = this.markdownService.format('<sub>foo</sub>'),
             expectedResponse = 'foo';
 
         response.should.equal(expectedResponse);
     });
 
-    it('Should remove <u> tags since there is no markdown equivalent', () => {
+    it('should remove <u> tags since there is no markdown equivalent', () => {
         const response = this.markdownService.format('<u>foo</u>'),
             expectedResponse = 'foo';
 
         response.should.equal(expectedResponse);
     });
 
-    it('Should convert <br /> tags to a new line (\\n)', () => {
+    it('should convert <br /> tags to a new line (\\n)', () => {
         const response = this.markdownService.format('foo<br />bar'),
             expectedResponse = 'foo\nbar';
 
         response.should.equal(expectedResponse);
     });
 
-    it('Should convert <br/> tags to a new line (\\n)', () => {
+    it('should convert <br/> tags to a new line (\\n)', () => {
         const response = this.markdownService.format('foo<br/>bar'),
             expectedResponse = 'foo\nbar';
 
         response.should.equal(expectedResponse);
     });
 
-    it('Should convert <br> tags to a new line (\\n)', () => {
+    it('should convert <br> tags to a new line (\\n)', () => {
         const response = this.markdownService.format('foo<br>bar'),
             expectedResponse = 'foo\nbar';
 
         response.should.equal(expectedResponse);
     });
 
-    it('Should convert <em> tags to an underscore (_)', () => {
+    it('should convert <em> tags to an underscore (_)', () => {
         const response = this.markdownService.format('<em>foo</em>'),
             expectedResponse = '_foo_';
 
         response.should.equal(expectedResponse);
     });
 
+    it('should convert <strong> tags to two astericks (**)', () => {
+        const response = this.markdownService.format('<strong>foo</strong>'),
+            expectedResponse = '**foo**';
+
+        response.should.equal(expectedResponse);
+    });
+
+    it('should convert <a> tags with absolute urls to proper markdown anchor format', () => {
+        const response = this.markdownService.format('<a href="http://www.cnn.com/">CNN</a>'),
+            expectedResponse = '[CNN](http://www.cnn.com/)';
+
+        response.should.equal(expectedResponse);
+    });
+
+    it('should convert <a> tags with relative urls to proper markdown anchor format', () => {
+        const response = this.markdownService.format('<a href="/foo/bar">CNN</a>'),
+            expectedResponse = '[CNN](/foo/bar)';
+
+        response.should.equal(expectedResponse);
+    });
+
+    it('should convert <a> tags with properties other than href to proper markdown anchor format', () => {
+        const response = this.markdownService.format('<a style="foo" href="http://www.cnn.com/" target="_blank">CNN</a>'),
+            expectedResponse = '[CNN](http://www.cnn.com/)';
+
+        response.should.equal(expectedResponse);
+    });
+
+    it('should convert multiple <a> tags with properties other than href to proper markdown anchor format in the same string', () => {
+        const response = this.markdownService.format('<a style="foo" href="http://www.cnn.com/" target="_blank">CNN</a> <a style="bar" href="http://money.cnn.com/" target="_blank">CNN Money</a>'),
+            expectedResponse = '[CNN](http://www.cnn.com/) [CNN Money](http://money.cnn.com/)';
+
+        response.should.equal(expectedResponse);
+    });
+
+    it('should convert <h1> tags to prepend a hash (#) before the string', () => {
+        const response = this.markdownService.format('<h1>Foo</h1>'),
+            expectedResponse = '# Foo';
+
+        response.should.equal(expectedResponse);
+    });
+
+    it('should convert <h2> tags to prepend two hashes (##) before the string', () => {
+        const response = this.markdownService.format('<h2>Foo</h2>'),
+            expectedResponse = '## Foo';
+
+        response.should.equal(expectedResponse);
+    });
+
+    it('should convert <h3> tags to prepend three hashs (###) before the string', () => {
+        const response = this.markdownService.format('<h3>Foo</h3>'),
+            expectedResponse = '### Foo';
+
+        response.should.equal(expectedResponse);
+    });
+
+    it('should convert <h4> tags to prepend four hashes (####) before the string', () => {
+        const response = this.markdownService.format('<h4>Foo</h4>'),
+            expectedResponse = '#### Foo';
+
+        response.should.equal(expectedResponse);
+    });
+
+    it('should convert <h5> tags to prepend five hashes (#####) before the string', () => {
+        const response = this.markdownService.format('<h5>Foo</h5>'),
+            expectedResponse = '##### Foo';
+
+        response.should.equal(expectedResponse);
+    });
+
+    it('should convert <h6> tags to prepend six hashes (######) before the string', () => {
+        const response = this.markdownService.format('<h6>Foo</h6>'),
+            expectedResponse = '###### Foo';
+
+        response.should.equal(expectedResponse);
+    });
+
+    it('should return what was passed in if it is not a string, like an array', () => {
+        const response = this.markdownService.format(['foo', 'bar']),
+            expectedResponse = ['foo', 'bar'];
+
+        response.should.be.an('array');
+        response.should.deep.equal(expectedResponse);
+    });
+
+    it('should return what was passed in if it is not a string, like an object', () => {
+        const response = this.markdownService.format({baz: ['foo', 'bar']}),
+            expectedResponse = {baz: ['foo', 'bar']};
+
+        response.should.be.an('object');
+        response.should.deep.equal(expectedResponse);
+    });
 });
