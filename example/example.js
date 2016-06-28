@@ -14,6 +14,11 @@
  * limitations under the License.
  */
 
+/*
+ * Run this example with:
+ *     $ node example/example.js
+ */
+
 'use strict';
 
 const MarkdownService = require('../lib/markdown-service.js'),
