@@ -73,4 +73,117 @@ describe('Markdown Service', () => {
 
         response.should.equal(expectedResponse);
     });
+
+    it('should convert two dashes (--) to an emdash (—) if they are surrounded by non-leading or trailing whitespace', () => {
+        const response = this.markdownService.format('foo -- bar'),
+            expectedResponse = 'foo — bar';
+
+        response.should.equal(expectedResponse);
+    });
+
+    it('should convert multiple groups two dashes (--) to an emdash (—) if they are surrounded by non-leading or trailing whitespace and separated by something other than whitespace', () => {
+        const response = this.markdownService.format('foo -- baz -- bar'),
+            expectedResponse = 'foo — baz — bar';
+
+        response.should.equal(expectedResponse);
+    });
+
+    it('Should remove <em> tags if they surround only spaces', () => {
+        const response = this.markdownService.format('<em>  </em>'),
+            expectedResponse = '';
+
+        response.should.equal(expectedResponse);
+    });
+
+    it('Should remove <em> tags if they surround only tabs', () => {
+        const response = this.markdownService.format('<em>\t\t</em>'),
+            expectedResponse = '';
+
+        response.should.equal(expectedResponse);
+    });
+
+    it('Should remove <em> tags if they surround only new lines', () => {
+        const response = this.markdownService.format('<em>\n\n</em>'),
+            expectedResponse = '';
+
+        response.should.equal(expectedResponse);
+    });
+
+    it('Should remove <em> tags if they surround combinations of whitespace', () => {
+        const response = this.markdownService.format('<em>  \t  \n \t</em>'),
+            expectedResponse = '';
+
+        response.should.equal(expectedResponse);
+    });
+
+    it('Should remove <strong> tags if they surround only spaces', () => {
+        const response = this.markdownService.format('<strong>  </strong>'),
+            expectedResponse = '';
+
+        response.should.equal(expectedResponse);
+    });
+
+    it('Should remove <strong> tags if they surround only tabs', () => {
+        const response = this.markdownService.format('<strong>\t\t</strong>'),
+            expectedResponse = '';
+
+        response.should.equal(expectedResponse);
+    });
+
+    it('Should remove <strong> tags if they surround only new lines', () => {
+        const response = this.markdownService.format('<strong>\n\n</strong>'),
+            expectedResponse = '';
+
+        response.should.equal(expectedResponse);
+    });
+
+    it('Should remove <strong> tags if they surround combinations of whitespace', () => {
+        const response = this.markdownService.format('<strong>  \t  \n \t</strong>'),
+            expectedResponse = '';
+
+        response.should.equal(expectedResponse);
+    });
+
+    it('Should remove <sub> tags since there is no markdown equivalent', () => {
+        const response = this.markdownService.format('<sub>foo</sub>'),
+            expectedResponse = 'foo';
+
+        response.should.equal(expectedResponse);
+    });
+
+    it('Should remove <u> tags since there is no markdown equivalent', () => {
+        const response = this.markdownService.format('<u>foo</u>'),
+            expectedResponse = 'foo';
+
+        response.should.equal(expectedResponse);
+    });
+
+    it('Should convert <br /> tags to a new line (\\n)', () => {
+        const response = this.markdownService.format('foo<br />bar'),
+            expectedResponse = 'foo\nbar';
+
+        response.should.equal(expectedResponse);
+    });
+
+    it('Should convert <br/> tags to a new line (\\n)', () => {
+        const response = this.markdownService.format('foo<br/>bar'),
+            expectedResponse = 'foo\nbar';
+
+        response.should.equal(expectedResponse);
+    });
+
+    it('Should convert <br> tags to a new line (\\n)', () => {
+        const response = this.markdownService.format('foo<br>bar'),
+            expectedResponse = 'foo\nbar';
+
+        response.should.equal(expectedResponse);
+    });
+
+    it('Should convert <em> tags to an underscore (_)', () => {
+        const response = this.markdownService.format('<em>foo</em>'),
+            expectedResponse = '_foo_';
+
+        response.should.equal(expectedResponse);
+    });
+
 });
