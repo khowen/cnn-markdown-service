@@ -25,8 +25,8 @@ $ npm install --save --save-exact cnn-markdown-service
 ## Usage
 
 This is intended to be used as a dependency in a larger application.  Refer to
-the the below example and the real [example.js](./example/example.js), that you
-can run with `$ node example/example.js`.
+the [example.js](./example/example.js) that you can run with
+`$ node example/example.js`.
 
 
 
