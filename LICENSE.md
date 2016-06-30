@@ -242,4 +242,1811 @@ IN THE SOFTWARE.
 Generated with [license-checker](https://www.npmjs.com/package/license-checker)
 
 ```
-
+├─ JSV@4.0.2
+│  ├─ licenses: FreeBSD
+│  └─ repository: https://github.com/garycourt/JSV
+├─ abab@1.0.3
+│  ├─ licenses: ISC
+│  └─ repository: https://github.com/jsdom/abab
+├─ abbrev@1.0.9
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/isaacs/abbrev-js
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/abbrev/LICENSE
+├─ acorn-globals@1.0.9
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/ForbesLindesay/acorn-globals
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/acorn-globals/LICENSE
+├─ acorn-jsx@3.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/RReverser/acorn-jsx
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/acorn-jsx/LICENSE
+├─ acorn@2.7.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/ternjs/acorn
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/acorn/LICENSE
+├─ acorn@3.2.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/ternjs/acorn
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/acorn-jsx/node_modules/acorn/LICENSE
+├─ after@0.8.1
+│  ├─ licenses: MIT*
+│  ├─ repository: https://github.com/Raynos/after
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/after/LICENCE
+├─ align-text@0.1.4
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jonschlinkert/align-text
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/align-text/LICENSE
+├─ amdefine@1.0.0
+│  ├─ licenses: BSD-3-Clause AND MIT
+│  ├─ repository: https://github.com/jrburke/amdefine
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/amdefine/LICENSE
+├─ ansi-escapes@1.4.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/ansi-escapes
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/ansi-escapes/license
+├─ ansi-regex@2.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/ansi-regex
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/ansi-regex/license
+├─ ansi-styles@1.0.0
+│  ├─ licenses: MIT
+│  └─ repository: https://github.com/sindresorhus/ansi-styles
+├─ ansi-styles@2.2.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/chalk/ansi-styles
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/ansi-styles/license
+├─ ansi@0.3.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/TooTallNate/ansi.js
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/npm/node_modules/node-gyp/node_modules/npmlog/node_modules/ansi/LICENSE
+├─ ansicolors@0.3.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/thlorenz/ansicolors
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/npm/node_modules/ansicolors/LICENSE
+├─ ansistyles@0.1.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/thlorenz/ansistyles
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/npm/node_modules/ansistyles/LICENSE
+├─ application-config-path@0.1.0
+│  ├─ licenses: MIT
+│  └─ repository: https://github.com/LinusU/node-application-config-path
+├─ application-config@0.2.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/LinusU/node-application-config
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/application-config/LICENSE
+├─ aproba@1.0.4
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/iarna/aproba
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/npm/node_modules/aproba/LICENSE
+├─ archy@1.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/substack/node-archy
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/npm/node_modules/archy/LICENSE
+├─ are-we-there-yet@1.1.2
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/iarna/are-we-there-yet
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/npm/node_modules/node-gyp/node_modules/npmlog/node_modules/are-we-there-yet/LICENSE
+├─ argparse@1.0.7
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/nodeca/argparse
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/argparse/LICENSE
+├─ array-index@1.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/TooTallNate/array-index
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/npm/node_modules/node-gyp/node_modules/path-array/node_modules/array-index/LICENSE
+├─ array-union@1.0.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/array-union
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/array-union/license
+├─ array-uniq@1.0.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/array-uniq
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/array-uniq/license
+├─ arrify@1.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/arrify
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/arrify/license
+├─ asap@2.0.4
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/kriskowal/asap
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/npm/node_modules/asap/LICENSE.md
+├─ asn1@0.2.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/mcavage/node-asn1
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/asn1/LICENSE
+├─ assert-plus@0.2.0
+│  ├─ licenses: MIT
+│  └─ repository: https://github.com/mcavage/node-assert-plus
+├─ assert-plus@1.0.0
+│  ├─ licenses: MIT
+│  └─ repository: https://github.com/mcavage/node-assert-plus
+├─ assertion-error@1.0.2
+│  ├─ licenses: MIT
+│  └─ repository: https://github.com/chaijs/assertion-error
+├─ async@0.2.10
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/caolan/async
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/uglify-js/node_modules/async/LICENSE
+├─ async@1.5.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/caolan/async
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/async/LICENSE
+├─ aws-sign2@0.6.0
+│  ├─ licenses: Apache-2.0
+│  ├─ repository: https://github.com/mikeal/aws-sign
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/aws-sign2/LICENSE
+├─ aws4@1.4.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/mhart/aws4
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/aws4/LICENSE
+├─ balanced-match@0.3.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/juliangruber/balanced-match
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/npm/node_modules/node-gyp/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/node_modules/balanced-match/LICENSE.md
+├─ balanced-match@0.4.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/juliangruber/balanced-match
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/balanced-match/LICENSE.md
+├─ bl@1.0.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/rvagg/bl
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/bl/LICENSE.md
+├─ bl@1.1.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/rvagg/bl
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/request/node_modules/bl/LICENSE.md
+├─ block-stream@0.0.8
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/isaacs/block-stream
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/npm/node_modules/tar/node_modules/block-stream/LICENSE
+├─ bluebird@3.4.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/petkaantonov/bluebird
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/bluebird/LICENSE
+├─ boolbase@1.0.0
+│  ├─ licenses: ISC
+│  └─ repository: https://github.com/fb55/boolbase
+├─ boom@2.10.1
+│  ├─ licenses: BSD-3-Clause
+│  ├─ repository: https://github.com/hapijs/boom
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/boom/LICENSE
+├─ brace-expansion@1.1.3
+│  ├─ licenses: MIT
+│  └─ repository: https://github.com/juliangruber/brace-expansion
+├─ brace-expansion@1.1.4
+│  ├─ licenses: MIT
+│  └─ repository: https://github.com/juliangruber/brace-expansion
+├─ brace-expansion@1.1.5
+│  ├─ licenses: MIT
+│  └─ repository: https://github.com/juliangruber/brace-expansion
+├─ buffer-shims@1.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/calvinmetcalf/buffer-shims
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/npm/node_modules/readable-stream/node_modules/buffer-shims/license.md
+├─ builtin-modules@1.1.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/builtin-modules
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/npm/node_modules/normalize-package-data/node_modules/is-builtin-module/node_modules/builtin-modules/license
+├─ builtins@0.0.7
+│  ├─ licenses: MIT
+│  └─ repository: https://github.com/juliangruber/builtins
+├─ caller-path@0.1.0
+│  ├─ licenses: MIT
+│  └─ repository: https://github.com/sindresorhus/caller-path
+├─ callsites@0.2.0
+│  ├─ licenses: MIT
+│  └─ repository: https://github.com/sindresorhus/callsites
+├─ camelcase@1.2.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/camelcase
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/camelcase/license
+├─ caseless@0.11.0
+│  ├─ licenses: Apache-2.0
+│  ├─ repository: https://github.com/mikeal/caseless
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/caseless/LICENSE
+├─ center-align@0.1.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jonschlinkert/center-align
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/center-align/LICENSE
+├─ chai@3.5.0
+│  ├─ licenses: MIT
+│  └─ repository: https://github.com/chaijs/chai
+├─ chalk@0.4.0
+│  ├─ licenses: MIT
+│  └─ repository: https://github.com/sindresorhus/chalk
+├─ chalk@1.1.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/chalk/chalk
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/chalk/license
+├─ changelog-maker@2.2.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/rvagg/changelog-maker
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/changelog-maker/LICENSE.md
+├─ cheerio@0.19.0
+│  ├─ licenses: MIT
+│  └─ repository: https://github.com/cheeriojs/cheerio
+├─ cheerio@0.20.0
+│  ├─ licenses: MIT
+│  └─ repository: https://github.com/cheeriojs/cheerio
+├─ chownr@1.0.1
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/isaacs/chownr
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/npm/node_modules/chownr/LICENSE
+├─ cint@8.2.1
+│  ├─ licenses: ISC
+│  └─ repository: https://github.com/metaraine/cint
+├─ cli-cursor@1.0.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/cli-cursor
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/cli-cursor/license
+├─ cli-table@0.3.1
+│  ├─ licenses: UNKNOWN
+│  └─ repository: https://github.com/Automattic/cli-table
+├─ cli-width@2.1.0
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/knownasilya/cli-width
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/cli-width/LICENSE
+├─ cliui@2.1.0
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/bcoe/cliui
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/cliui/LICENSE.txt
+├─ clone@1.0.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/pvorb/node-clone
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/npm/node_modules/columnify/node_modules/wcwidth/node_modules/defaults/node_modules/clone/LICENSE
+├─ cmd-shim@2.0.2
+│  ├─ licenses: BSD-2-Clause
+│  ├─ repository: https://github.com/ForbesLindesay/cmd-shim
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/npm/node_modules/cmd-shim/LICENSE
+├─ cnn-markdown-service@1.0.0
+│  ├─ licenses: Apache-2.0
+│  ├─ repository: https://github.com/cnnlabs/cnn-markdown-service
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/LICENSE.md
+├─ code-point-at@1.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/code-point-at
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/code-point-at/license
+├─ color-logger@0.0.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/h13i32maru/color-logger
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/color-logger/LICENSE
+├─ colors@1.0.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/Marak/colors.js
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/colors/MIT-LICENSE.txt
+├─ columnify@1.5.4
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/timoxley/columnify
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/npm/node_modules/columnify/LICENSE
+├─ combined-stream@1.0.5
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/felixge/node-combined-stream
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/combined-stream/License
+├─ commander@0.6.1
+│  ├─ licenses: UNKNOWN
+│  └─ repository: https://github.com/visionmedia/commander.js
+├─ commander@2.3.0
+│  ├─ licenses: UNKNOWN
+│  └─ repository: https://github.com/visionmedia/commander.js
+├─ commander@2.9.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/tj/commander.js
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/commander/LICENSE
+├─ commit-stream@1.0.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/rvagg/commit-stream
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/commit-stream/LICENSE.md
+├─ concat-map@0.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/substack/node-concat-map
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/concat-map/LICENSE
+├─ concat-stream@1.5.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/maxogden/concat-stream
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/concat-stream/LICENSE
+├─ config-chain@1.1.10
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/dominictarr/config-chain
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/npm/node_modules/config-chain/LICENCE
+├─ configstore@1.4.0
+│  ├─ licenses: BSD-2-Clause
+│  └─ repository: https://github.com/yeoman/configstore
+├─ console-control-strings@1.1.0
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/iarna/console-control-strings
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/npm/node_modules/npmlog/node_modules/console-control-strings/LICENSE
+├─ core-js@0.9.18
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/zloirock/core-js
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/core-js/LICENSE
+├─ core-util-is@1.0.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/isaacs/core-util-is
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/core-util-is/LICENSE
+├─ cryptiles@2.0.5
+│  ├─ licenses: BSD-3-Clause
+│  ├─ repository: https://github.com/hapijs/cryptiles
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/cryptiles/LICENSE
+├─ css-select@1.0.0
+│  ├─ licenses: BSD-like
+│  ├─ repository: https://github.com/fb55/css-select
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/css-select/LICENSE
+├─ css-select@1.2.0
+│  ├─ licenses: BSD-like
+│  ├─ repository: https://github.com/fb55/css-select
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/ice-cap/node_modules/css-select/LICENSE
+├─ css-what@1.0.0
+│  ├─ licenses: BSD-like
+│  ├─ repository: https://github.com/fb55/css-what
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/css-what/LICENSE
+├─ css-what@2.1.0
+│  ├─ licenses: BSD-like
+│  ├─ repository: https://github.com/fb55/css-what
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/ice-cap/node_modules/css-what/LICENSE
+├─ cssom@0.3.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/nv/CSSOM
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/cssom/LICENSE.txt
+├─ cssstyle@0.2.36
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/chad3814/CSSStyleDeclaration
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/cssstyle/MIT-LICENSE.txt
+├─ d@0.1.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/medikoo/d
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/d/LICENCE
+├─ dashdash@1.14.0
+│  ├─ licenses: MIT
+│  └─ repository: https://github.com/trentm/node-dashdash
+├─ debug@2.2.0
+│  ├─ licenses: MIT
+│  └─ repository: https://github.com/visionmedia/debug
+├─ debuglog@1.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sam-github/node-debuglog
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/npm/node_modules/debuglog/LICENSE
+├─ decamelize@1.2.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/decamelize
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/decamelize/license
+├─ deep-eql@0.1.3
+│  ├─ licenses: MIT
+│  └─ repository: https://github.com/chaijs/deep-eql
+├─ deep-extend@0.4.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/unclechu/node-deep-extend
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/deep-extend/LICENSE
+├─ deep-is@0.1.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/thlorenz/deep-is
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/deep-is/LICENSE
+├─ defaults@1.0.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/tmpvar/defaults
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/npm/node_modules/columnify/node_modules/wcwidth/node_modules/defaults/LICENSE
+├─ del@2.2.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/del
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/del/license
+├─ delayed-stream@1.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/felixge/node-delayed-stream
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/delayed-stream/License
+├─ delegates@1.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/visionmedia/node-delegates
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/npm/node_modules/node-gyp/node_modules/npmlog/node_modules/are-we-there-yet/node_modules/delegates/License
+├─ dezalgo@1.0.3
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/npm/dezalgo
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/npm/node_modules/dezalgo/LICENSE
+├─ diff@1.4.0
+│  ├─ licenses: BSD
+│  └─ repository: https://github.com/kpdecker/jsdiff
+├─ doctrine@1.2.2
+│  ├─ licenses: BSD
+│  ├─ repository: https://github.com/eslint/doctrine
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/doctrine/LICENSE.esprima
+├─ dom-serializer@0.1.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/cheeriojs/dom-renderer
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/dom-serializer/LICENSE
+├─ domelementtype@1.1.3
+│  ├─ licenses: BSD*
+│  ├─ repository: https://github.com/FB55/domelementtype
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/dom-serializer/node_modules/domelementtype/LICENSE
+├─ domelementtype@1.3.0
+│  ├─ licenses: BSD*
+│  ├─ repository: https://github.com/FB55/domelementtype
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/domelementtype/LICENSE
+├─ domhandler@2.3.0
+│  ├─ licenses: BSD*
+│  ├─ repository: https://github.com/fb55/DomHandler
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/domhandler/LICENSE
+├─ domutils@1.4.3
+│  ├─ licenses: BSD*
+│  ├─ repository: https://github.com/FB55/domutils
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/domutils/LICENSE
+├─ domutils@1.5.1
+│  ├─ licenses: BSD*
+│  ├─ repository: https://github.com/FB55/domutils
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/htmlparser2/node_modules/domutils/LICENSE
+├─ duplexer2@0.0.2
+│  ├─ licenses: BSD
+│  ├─ repository: https://github.com/deoxxa/duplexer2
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/duplexer2/LICENSE.md
+├─ duplexify@3.4.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/mafintosh/duplexify
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/duplexify/LICENSE
+├─ ecc-jsbn@0.1.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/quartzjer/ecc-jsbn
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/ecc-jsbn/LICENSE
+├─ editor@1.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/substack/node-editor
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/npm/node_modules/editor/LICENSE
+├─ end-of-stream@1.0.0
+│  ├─ licenses: MIT
+│  └─ repository: https://github.com/mafintosh/end-of-stream
+├─ entities@1.0.0
+│  ├─ licenses: BSD-like
+│  ├─ repository: https://github.com/fb55/node-entities
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/htmlparser2/node_modules/entities/LICENSE
+├─ entities@1.1.1
+│  ├─ licenses: BSD-like
+│  ├─ repository: https://github.com/fb55/node-entities
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/entities/LICENSE
+├─ es5-ext@0.10.11
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/medikoo/es5-ext
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/es5-ext/LICENSE
+├─ es6-iterator@2.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/medikoo/es6-iterator
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/es6-iterator/LICENSE
+├─ es6-map@0.1.4
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/medikoo/es6-map
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/es6-map/LICENSE
+├─ es6-set@0.1.4
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/medikoo/es6-set
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/es6-set/LICENSE
+├─ es6-symbol@3.0.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/medikoo/es6-symbol
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/es5-ext/node_modules/es6-symbol/LICENSE
+├─ es6-symbol@3.1.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/medikoo/es6-symbol
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/es6-symbol/LICENSE
+├─ es6-weak-map@2.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/medikoo/es6-weak-map
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/es6-weak-map/LICENSE
+├─ escape-html@1.0.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/component/escape-html
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/escape-html/LICENSE
+├─ escape-string-regexp@1.0.2
+│  ├─ licenses: MIT
+│  └─ repository: https://github.com/sindresorhus/escape-string-regexp
+├─ escape-string-regexp@1.0.5
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/escape-string-regexp
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/escape-string-regexp/license
+├─ escodegen@1.7.0
+│  ├─ licenses: BSD-2-Clause
+│  ├─ repository: https://github.com/estools/escodegen
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/escodegen/LICENSE.source-map
+├─ escodegen@1.8.0
+│  ├─ licenses: BSD-2-Clause
+│  ├─ repository: https://github.com/estools/escodegen
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/istanbul/node_modules/escodegen/LICENSE.source-map
+├─ escope@3.6.0
+│  ├─ licenses: BSD-2-Clause
+│  ├─ repository: https://github.com/estools/escope
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/escope/LICENSE.BSD
+├─ esdoc@0.4.7
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/esdoc/esdoc
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/esdoc/LICENSE
+├─ eslint@2.13.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/eslint/eslint
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/eslint/LICENSE
+├─ espree@2.2.0
+│  ├─ licenses: BSD
+│  └─ repository: https://github.com/eslint/espree
+├─ espree@3.1.6
+│  ├─ licenses: BSD-2-Clause
+│  ├─ repository: https://github.com/eslint/espree
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/eslint/node_modules/espree/LICENSE
+├─ esprima@1.2.5
+│  ├─ licenses: BSD
+│  ├─ repository: https://github.com/ariya/esprima
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/escodegen/node_modules/esprima/LICENSE.BSD
+├─ esprima@2.7.2
+│  ├─ licenses: BSD-2-Clause
+│  ├─ repository: https://github.com/jquery/esprima
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/js-yaml/node_modules/esprima/LICENSE.BSD
+├─ esrecurse@4.1.0
+│  ├─ licenses: BSD-2-Clause
+│  └─ repository: https://github.com/estools/esrecurse
+├─ estraverse@1.9.3
+│  ├─ licenses: BSD
+│  ├─ repository: https://github.com/estools/estraverse
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/escodegen/node_modules/estraverse/LICENSE.BSD
+├─ estraverse@4.1.0
+│  ├─ licenses: BSD
+│  ├─ repository: https://github.com/estools/estraverse
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/estraverse/LICENSE.BSD
+├─ estraverse@4.2.0
+│  ├─ licenses: BSD-2-Clause
+│  ├─ repository: https://github.com/estools/estraverse
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/escope/node_modules/estraverse/LICENSE.BSD
+├─ esutils@1.1.6
+│  ├─ licenses: BSD
+│  ├─ repository: https://github.com/Constellation/esutils
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/doctrine/node_modules/esutils/LICENSE.BSD
+├─ esutils@2.0.2
+│  ├─ licenses: BSD
+│  ├─ repository: https://github.com/estools/esutils
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/esutils/LICENSE.BSD
+├─ event-emitter@0.3.4
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/medikoo/event-emitter
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/event-emitter/LICENSE
+├─ exit-hook@1.1.1
+│  ├─ licenses: MIT
+│  └─ repository: https://github.com/sindresorhus/exit-hook
+├─ extend@3.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/justmoon/node-extend
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/extend/LICENSE
+├─ extsprintf@1.0.2
+│  ├─ licenses: MIT*
+│  ├─ repository: https://github.com/davepacheco/node-extsprintf
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/extsprintf/LICENSE
+├─ fast-diff@1.0.1
+│  ├─ licenses: Apache 2.0
+│  └─ repository: https://github.com/jhchen/fast-diff
+├─ fast-levenshtein@1.0.7
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/hiddentao/fast-levenshtein
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/fast-levenshtein/LICENSE.md
+├─ fast-levenshtein@1.1.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/hiddentao/fast-levenshtein
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/eslint/node_modules/fast-levenshtein/LICENSE.md
+├─ figures@1.7.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/figures
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/figures/license
+├─ file-entry-cache@1.2.4
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/royriojas/file-entry-cache
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/file-entry-cache/LICENSE
+├─ fileset@0.2.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/mklabs/node-fileset
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/fileset/LICENSE-MIT
+├─ find-up@1.1.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/find-up
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/find-up/license
+├─ flat-cache@1.0.10
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/royriojas/flat-cache
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/flat-cache/LICENSE
+├─ forever-agent@0.6.1
+│  ├─ licenses: Apache-2.0
+│  ├─ repository: https://github.com/mikeal/forever-agent
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/forever-agent/LICENSE
+├─ form-data@1.0.0-rc4
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/form-data/form-data
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/form-data/License
+├─ fs-extra@0.26.5
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jprichardson/node-fs-extra
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/fs-extra/LICENSE
+├─ fs-vacuum@1.2.9
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/npm/fs-vacuum
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/npm/node_modules/fs-vacuum/LICENSE
+├─ fs-write-stream-atomic@1.0.8
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/npm/fs-write-stream-atomic
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/npm/node_modules/fs-write-stream-atomic/LICENSE
+├─ fs.realpath@1.0.0
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/isaacs/fs.realpath
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/fs.realpath/LICENSE
+├─ fstream-ignore@1.0.5
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/isaacs/fstream-ignore
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/npm/node_modules/fstream-npm/node_modules/fstream-ignore/LICENSE
+├─ fstream-npm@1.1.0
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/npm/fstream-npm
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/npm/node_modules/fstream-npm/LICENSE
+├─ fstream@1.0.10
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/npm/fstream
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/npm/node_modules/fstream/LICENSE
+├─ gauge@1.2.7
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/iarna/gauge
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/npm/node_modules/node-gyp/node_modules/npmlog/node_modules/gauge/LICENSE
+├─ gauge@2.6.0
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/iarna/gauge
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/npm/node_modules/npmlog/node_modules/gauge/LICENSE
+├─ generate-function@2.0.0
+│  ├─ licenses: MIT
+│  └─ repository: https://github.com/mafintosh/generate-function
+├─ generate-object-property@1.2.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/mafintosh/generate-object-property
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/generate-object-property/LICENSE
+├─ get-stdin@5.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/get-stdin
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/get-stdin/license
+├─ getpass@0.1.6
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/arekinath/node-getpass
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/getpass/LICENSE
+├─ ghauth@3.2.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/rvagg/ghauth
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/ghauth/LICENSE
+├─ ghissues@1.1.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/rvagg/ghissues
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/ghissues/LICENSE
+├─ ghutils@3.1.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/rvagg/ghutils
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/ghutils/LICENSE.md
+├─ gitexec@1.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/rvagg/gitexec
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/gitexec/LICENSE.md
+├─ glob@3.2.11
+│  ├─ licenses: BSD
+│  ├─ repository: https://github.com/isaacs/node-glob
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/mocha/node_modules/glob/LICENSE
+├─ glob@4.5.3
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/isaacs/node-glob
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/npm/node_modules/node-gyp/node_modules/glob/LICENSE
+├─ glob@5.0.15
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/isaacs/node-glob
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/fileset/node_modules/glob/LICENSE
+├─ glob@6.0.4
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/isaacs/node-glob
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/npm/node_modules/init-package-json/node_modules/glob/LICENSE
+├─ glob@7.0.4
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/isaacs/node-glob
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/npm/node_modules/glob/LICENSE
+├─ glob@7.0.5
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/isaacs/node-glob
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/glob/LICENSE
+├─ globals@9.8.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/globals
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/globals/license
+├─ globby@5.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/globby
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/globby/license
+├─ got@3.3.1
+│  ├─ licenses: MIT
+│  └─ repository: https://github.com/sindresorhus/got
+├─ graceful-fs@4.1.4
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/isaacs/node-graceful-fs
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/graceful-fs/LICENSE
+├─ graceful-readlink@1.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/zhiyelee/graceful-readlink
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/graceful-readlink/LICENSE
+├─ growl@1.9.2
+│  ├─ licenses: MIT
+│  └─ repository: https://github.com/tj/node-growl
+├─ handlebars@4.0.5
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/wycats/handlebars.js
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/handlebars/LICENSE
+├─ har-validator@2.0.6
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/ahmadnassri/har-validator
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/har-validator/LICENSE
+├─ has-ansi@2.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/has-ansi
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/has-ansi/license
+├─ has-color@0.1.7
+│  ├─ licenses: MIT
+│  └─ repository: https://github.com/sindresorhus/has-color
+├─ has-flag@1.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/has-flag
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/has-flag/license
+├─ has-unicode@2.0.1
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/iarna/has-unicode
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/npm/node_modules/has-unicode/LICENSE
+├─ hawk@3.1.3
+│  ├─ licenses: BSD-3-Clause
+│  ├─ repository: https://github.com/hueniverse/hawk
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/hawk/LICENSE
+├─ hoek@2.16.3
+│  ├─ licenses: BSD-3-Clause
+│  ├─ repository: https://github.com/hapijs/hoek
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/hoek/LICENSE
+├─ hosted-git-info@2.1.5
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/npm/hosted-git-info
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/npm/node_modules/hosted-git-info/LICENSE
+├─ htmlparser2@3.8.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/fb55/htmlparser2
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/htmlparser2/LICENSE
+├─ http-signature@1.1.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/joyent/node-http-signature
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/http-signature/LICENSE
+├─ hyperquest@1.2.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/substack/hyperquest
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/hyperquest/LICENSE
+├─ ice-cap@0.0.4
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/h13i32maru/ice-cap
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/ice-cap/LICENSE
+├─ iferr@0.1.5
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/shesek/iferr
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/npm/node_modules/iferr/LICENSE
+├─ ignore@3.1.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/kaelzhang/node-ignore
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/ignore/LICENSE-MIT
+├─ imurmurhash@0.1.4
+│  ├─ licenses: MIT
+│  └─ repository: https://github.com/jensyt/imurmurhash-js
+├─ infinity-agent@2.0.3
+│  ├─ licenses: MIT
+│  └─ repository: https://github.com/floatdrop/infinity-agent
+├─ inflight@1.0.5
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/npm/inflight
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/inflight/LICENSE
+├─ inherits@2.0.1
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/isaacs/inherits
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/inherits/LICENSE
+├─ ini@1.3.4
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/isaacs/ini
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/ini/LICENSE
+├─ init-package-json@1.9.4
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/npm/init-package-json
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/npm/node_modules/init-package-json/LICENSE
+├─ inquirer@0.12.0
+│  ├─ licenses: MIT
+│  └─ repository: https://github.com/sboudrias/Inquirer.js
+├─ is-buffer@1.1.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/feross/is-buffer
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/is-buffer/LICENSE
+├─ is-builtin-module@1.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/is-builtin-module
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/npm/node_modules/normalize-package-data/node_modules/is-builtin-module/license
+├─ is-finite@1.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/is-finite
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/is-finite/license
+├─ is-fullwidth-code-point@1.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/is-fullwidth-code-point
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/is-fullwidth-code-point/license
+├─ is-my-json-valid@2.13.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/mafintosh/is-my-json-valid
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/is-my-json-valid/LICENSE
+├─ is-npm@1.0.0
+│  ├─ licenses: MIT
+│  └─ repository: https://github.com/sindresorhus/is-npm
+├─ is-path-cwd@1.0.0
+│  ├─ licenses: MIT
+│  └─ repository: https://github.com/sindresorhus/is-path-cwd
+├─ is-path-in-cwd@1.0.0
+│  ├─ licenses: MIT
+│  └─ repository: https://github.com/sindresorhus/is-path-in-cwd
+├─ is-path-inside@1.0.0
+│  ├─ licenses: MIT
+│  └─ repository: https://github.com/sindresorhus/is-path-inside
+├─ is-property@1.0.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/mikolalysenko/is-property
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/is-property/LICENSE
+├─ is-redirect@1.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/is-redirect
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/is-redirect/license
+├─ is-resolvable@1.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/shinnn/is-resolvable
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/is-resolvable/LICENSE
+├─ is-stream@1.1.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/is-stream
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/is-stream/license
+├─ is-typedarray@1.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/hughsk/is-typedarray
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/is-typedarray/LICENSE.md
+├─ isarray@0.0.1
+│  ├─ licenses: MIT
+│  └─ repository: https://github.com/juliangruber/isarray
+├─ isarray@1.0.0
+│  ├─ licenses: MIT
+│  └─ repository: https://github.com/juliangruber/isarray
+├─ isexe@1.1.2
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/isaacs/isexe
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/isexe/LICENSE
+├─ isstream@0.1.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/rvagg/isstream
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/isstream/LICENSE.md
+├─ istanbul@0.4.4
+│  ├─ licenses: BSD-3-Clause
+│  ├─ repository: https://github.com/gotwarlost/istanbul
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/istanbul/LICENSE
+├─ jade@0.26.3
+│  ├─ licenses: MIT*
+│  ├─ repository: https://github.com/visionmedia/jade
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/jade/LICENSE
+├─ jju@1.3.0
+│  ├─ licenses: WTFPL
+│  ├─ repository: https://github.com/rlidwka/jju
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/jju/LICENSE
+├─ jodid25519@1.0.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/meganz/jodid25519
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/jodid25519/LICENSE
+├─ js-yaml@3.6.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/nodeca/js-yaml
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/js-yaml/LICENSE
+├─ jsbn@0.1.0
+│  ├─ licenses: BSD
+│  ├─ repository: https://github.com/andyperlitch/jsbn
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/jsbn/LICENSE
+├─ jsdom@7.2.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/tmpvar/jsdom
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/jsdom/LICENSE.txt
+├─ json-parse-helpfulerror@1.0.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/smikes/json-parse-helpfulerror
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/json-parse-helpfulerror/LICENSE
+├─ json-schema@0.2.2
+│  ├─ licenses
+│  │  ├─ 0: AFLv2.1
+│  │  └─ 1: BSD
+│  └─ repository: https://github.com/kriszyp/json-schema
+├─ json-stable-stringify@1.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/substack/json-stable-stringify
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/json-stable-stringify/LICENSE
+├─ json-stringify-safe@5.0.1
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/isaacs/json-stringify-safe
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/json-stringify-safe/LICENSE
+├─ jsonfile@2.3.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jprichardson/node-jsonfile
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/jsonfile/LICENSE
+├─ jsonify@0.0.0
+│  ├─ licenses: Public Domain
+│  └─ repository: https://github.com/substack/jsonify
+├─ jsonist@1.2.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/rvagg/jsonist
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/jsonist/LICENSE
+├─ jsonlint@1.6.2
+│  ├─ licenses: UNKNOWN
+│  └─ repository: https://github.com/zaach/jsonlint
+├─ jsonpointer@2.0.0
+│  ├─ licenses: MIT
+│  └─ repository: https://github.com/janl/node-jsonpointer
+├─ jsprim@1.3.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/davepacheco/node-jsprim
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/jsprim/LICENSE
+├─ kind-of@3.0.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jonschlinkert/kind-of
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/kind-of/LICENSE
+├─ klaw@1.3.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jprichardson/node-klaw
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/klaw/LICENSE
+├─ latest-version@1.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/latest-version
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/latest-version/license
+├─ lazy-cache@1.0.4
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jonschlinkert/lazy-cache
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/lazy-cache/LICENSE
+├─ levn@0.2.5
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/gkz/levn
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/levn/LICENSE
+├─ levn@0.3.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/gkz/levn
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/eslint/node_modules/levn/LICENSE
+├─ list-stream@1.0.1
+│  ├─ licenses: MIT +no-false-attribs
+│  ├─ repository: https://github.com/rvagg/list-stream
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/list-stream/LICENSE
+├─ lockfile@1.0.1
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/isaacs/lockfile
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/npm/node_modules/lockfile/LICENSE
+├─ lodash._baseclone@4.5.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/lodash/lodash
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/npm/node_modules/lodash.clonedeep/node_modules/lodash._baseclone/LICENSE
+├─ lodash._basedifference@4.5.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/lodash/lodash
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/npm/node_modules/lodash.without/node_modules/lodash._basedifference/LICENSE
+├─ lodash._baseflatten@4.2.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/lodash/lodash
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/npm/node_modules/lodash.union/node_modules/lodash._baseflatten/LICENSE
+├─ lodash._baseindexof@3.1.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/lodash/lodash
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/npm/node_modules/lodash._baseindexof/LICENSE.txt
+├─ lodash._baseslice@4.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/lodash/lodash
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/npm/node_modules/node-gyp/node_modules/npmlog/node_modules/gauge/node_modules/lodash.pad/node_modules/lodash._baseslice/LICENSE
+├─ lodash._basetostring@4.12.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/lodash/lodash
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/npm/node_modules/node-gyp/node_modules/npmlog/node_modules/gauge/node_modules/lodash.pad/node_modules/lodash._basetostring/LICENSE
+├─ lodash._baseuniq@4.6.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/lodash/lodash
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/npm/node_modules/lodash._baseuniq/LICENSE
+├─ lodash._bindcallback@3.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/lodash/lodash
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/npm/node_modules/lodash._bindcallback/LICENSE.txt
+├─ lodash._cacheindexof@3.0.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/lodash/lodash
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/npm/node_modules/lodash._cacheindexof/LICENSE.txt
+├─ lodash._createcache@3.1.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/lodash/lodash
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/npm/node_modules/lodash._createcache/LICENSE
+├─ lodash._createset@4.0.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/lodash/lodash
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/npm/node_modules/lodash._baseuniq/node_modules/lodash._createset/LICENSE
+├─ lodash._getnative@3.9.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/lodash/lodash
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/npm/node_modules/lodash._getnative/LICENSE
+├─ lodash._root@3.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/lodash/lodash
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/npm/node_modules/lodash._baseuniq/node_modules/lodash._root/LICENSE
+├─ lodash.clonedeep@4.3.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/lodash/lodash
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/npm/node_modules/lodash.clonedeep/LICENSE
+├─ lodash.pad@4.4.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/lodash/lodash
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/npm/node_modules/node-gyp/node_modules/npmlog/node_modules/gauge/node_modules/lodash.pad/LICENSE
+├─ lodash.padend@4.5.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/lodash/lodash
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/npm/node_modules/node-gyp/node_modules/npmlog/node_modules/gauge/node_modules/lodash.padend/LICENSE
+├─ lodash.padstart@4.5.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/lodash/lodash
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/npm/node_modules/node-gyp/node_modules/npmlog/node_modules/gauge/node_modules/lodash.padstart/LICENSE
+├─ lodash.rest@4.0.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/lodash/lodash
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/npm/node_modules/lodash.union/node_modules/lodash.rest/LICENSE
+├─ lodash.restparam@3.6.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/lodash/lodash
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/npm/node_modules/lodash.restparam/LICENSE.txt
+├─ lodash.tostring@4.1.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/lodash/lodash
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/npm/node_modules/node-gyp/node_modules/npmlog/node_modules/gauge/node_modules/lodash.pad/node_modules/lodash.tostring/LICENSE
+├─ lodash.union@4.4.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/lodash/lodash
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/npm/node_modules/lodash.union/LICENSE
+├─ lodash.uniq@4.3.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/lodash/lodash
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/npm/node_modules/lodash.uniq/LICENSE
+├─ lodash.without@4.2.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/lodash/lodash
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/npm/node_modules/lodash.without/LICENSE
+├─ lodash@3.10.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/lodash/lodash
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/lodash/LICENSE
+├─ lodash@4.13.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/lodash/lodash
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/node-alias/node_modules/lodash/LICENSE
+├─ longest@1.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jonschlinkert/longest
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/longest/LICENSE
+├─ lowercase-keys@1.0.0
+│  ├─ licenses: MIT
+│  └─ repository: https://github.com/sindresorhus/lowercase-keys
+├─ lru-cache@2.7.3
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/isaacs/node-lru-cache
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/lru-cache/LICENSE
+├─ marked@0.3.5
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/chjj/marked
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/marked/LICENSE
+├─ mime-db@1.23.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jshttp/mime-db
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/mime-db/LICENSE
+├─ mime-types@2.1.11
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jshttp/mime-types
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/mime-types/LICENSE
+├─ minimatch@0.3.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/isaacs/minimatch
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/mocha/node_modules/minimatch/LICENSE
+├─ minimatch@1.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/isaacs/minimatch
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/npm/node_modules/node-gyp/node_modules/minimatch/LICENSE
+├─ minimatch@2.0.10
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/isaacs/minimatch
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/npm/node_modules/node-gyp/node_modules/glob/node_modules/minimatch/LICENSE
+├─ minimatch@3.0.0
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/isaacs/minimatch
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/npm/node_modules/fstream-npm/node_modules/fstream-ignore/node_modules/minimatch/LICENSE
+├─ minimatch@3.0.2
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/isaacs/minimatch
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/minimatch/LICENSE
+├─ minimist@0.0.10
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/substack/minimist
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/optimist/node_modules/minimist/LICENSE
+├─ minimist@0.0.8
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/substack/minimist
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/mkdirp/node_modules/minimist/LICENSE
+├─ minimist@1.1.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/substack/minimist
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/esdoc/node_modules/minimist/LICENSE
+├─ minimist@1.2.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/substack/minimist
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/minimist/LICENSE
+├─ mkdirp@0.3.0
+│  ├─ licenses: MIT/X11
+│  ├─ repository: https://github.com/substack/node-mkdirp
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/jade/node_modules/mkdirp/LICENSE
+├─ mkdirp@0.5.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/substack/node-mkdirp
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/mkdirp/LICENSE
+├─ mocha@2.5.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/mochajs/mocha
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/mocha/LICENSE
+├─ ms@0.7.1
+│  ├─ licenses: MIT*
+│  ├─ repository: https://github.com/guille/ms.js
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/ms/LICENSE
+├─ mute-stream@0.0.5
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/isaacs/mute-stream
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/readline2/node_modules/mute-stream/LICENSE
+├─ mute-stream@0.0.6
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/isaacs/mute-stream
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/mute-stream/LICENSE
+├─ nested-error-stacks@1.0.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/mdlavin/nested-error-stacks
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/nested-error-stacks/LICENSE
+├─ node-alias@1.0.4
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/justinhelmer/node-alias
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/node-alias/LICENSE
+├─ node-gyp@3.3.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/nodejs/node-gyp
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/npm/node_modules/node-gyp/LICENSE
+├─ node-uuid@1.4.7
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/broofa/node-uuid
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/node-uuid/LICENSE.md
+├─ nomnom@1.8.1
+│  ├─ licenses: MIT*
+│  ├─ repository: https://github.com/harthur/nomnom
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/nomnom/LICENSE
+├─ nopt@3.0.6
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/npm/nopt
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/nopt/LICENSE
+├─ normalize-git-url@3.0.2
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/npm/normalize-git-url
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/npm/node_modules/normalize-git-url/LICENSE
+├─ normalize-package-data@2.3.5
+│  ├─ licenses: BSD-2-Clause
+│  ├─ repository: https://github.com/npm/normalize-package-data
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/npm/node_modules/normalize-package-data/LICENSE
+├─ npm-cache-filename@1.0.2
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/npm/npm-cache-filename
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/npm/node_modules/npm-cache-filename/LICENSE
+├─ npm-check-updates@2.6.8
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/tjunnone/npm-check-updates
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/npm-check-updates/LICENSE
+├─ npm-install-checks@3.0.0
+│  ├─ licenses: BSD-2-Clause
+│  ├─ repository: https://github.com/npm/npm-install-checks
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/npm/node_modules/npm-install-checks/LICENSE
+├─ npm-package-arg@4.2.0
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/npm/npm-package-arg
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/npm/node_modules/npm-package-arg/LICENSE
+├─ npm-registry-client@7.1.2
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/npm/npm-registry-client
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/npm/node_modules/npm-registry-client/LICENSE
+├─ npm-user-validate@0.1.4
+│  ├─ licenses: BSD-2-Clause
+│  ├─ repository: https://github.com/npm/npm-user-validate
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/npm/node_modules/npm-user-validate/LICENSE
+├─ npm@3.10.3
+│  ├─ licenses: Artistic-2.0
+│  ├─ repository: https://github.com/npm/npm
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/npm/LICENSE
+├─ npmi@2.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/maxleiko/npmi
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/npmi/LICENSE
+├─ npmlog@2.0.4
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/npm/npmlog
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/npm/node_modules/node-gyp/node_modules/npmlog/LICENSE
+├─ npmlog@3.1.2
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/npm/npmlog
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/npm/node_modules/npmlog/LICENSE
+├─ nth-check@1.0.1
+│  ├─ licenses: BSD
+│  └─ repository: https://github.com/fb55/nth-check
+├─ number-is-nan@1.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/number-is-nan
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/number-is-nan/license
+├─ nwmatcher@1.3.8
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/dperini/nwmatcher
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/nwmatcher/LICENSE
+├─ oauth-sign@0.8.2
+│  ├─ licenses: Apache-2.0
+│  ├─ repository: https://github.com/mikeal/oauth-sign
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/oauth-sign/LICENSE
+├─ object-assign@3.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/object-assign
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/got/node_modules/object-assign/license
+├─ object-assign@4.1.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/object-assign
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/object-assign/license
+├─ once@1.3.3
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/isaacs/once
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/once/LICENSE
+├─ onetime@1.1.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/onetime
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/onetime/license
+├─ opener@1.4.1
+│  ├─ licenses: WTFPL
+│  ├─ repository: https://github.com/domenic/opener
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/npm/node_modules/opener/LICENSE.txt
+├─ optimist@0.6.1
+│  ├─ licenses: MIT/X11
+│  ├─ repository: https://github.com/substack/node-optimist
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/optimist/LICENSE
+├─ optionator@0.5.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/gkz/optionator
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/optionator/LICENSE
+├─ optionator@0.8.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/gkz/optionator
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/eslint/node_modules/optionator/LICENSE
+├─ os-homedir@1.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/os-homedir
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/os-homedir/license
+├─ os-tmpdir@1.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/os-tmpdir
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/os-tmpdir/license
+├─ osenv@0.1.3
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/npm/osenv
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/osenv/LICENSE
+├─ package-json@1.2.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/package-json
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/package-json/license
+├─ parse5@1.5.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/inikulin/parse5
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/parse5/LICENSE
+├─ path-array@1.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/TooTallNate/node-path-array
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/npm/node_modules/node-gyp/node_modules/path-array/LICENSE
+├─ path-exists@2.1.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/path-exists
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/path-exists/license
+├─ path-is-absolute@1.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/path-is-absolute
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/path-is-absolute/license
+├─ path-is-inside@1.0.1
+│  ├─ licenses: WTFPL
+│  ├─ repository: https://github.com/domenic/path-is-inside
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/path-is-inside/LICENSE.txt
+├─ pify@2.3.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/pify
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/pify/license
+├─ pinkie-promise@2.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/floatdrop/pinkie-promise
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/pinkie-promise/license
+├─ pinkie@2.0.4
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/floatdrop/pinkie
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/pinkie/license
+├─ pkg-to-id@0.0.3
+│  ├─ licenses: WTF
+│  └─ repository: https://github.com/maboiteaspam/pkg-to-id
+├─ pluralize@1.2.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/blakeembrey/pluralize
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/pluralize/LICENSE
+├─ prelude-ls@1.1.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/gkz/prelude-ls
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/prelude-ls/LICENSE
+├─ prepend-http@1.0.4
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/prepend-http
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/prepend-http/license
+├─ process-nextick-args@1.0.7
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/calvinmetcalf/process-nextick-args
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/process-nextick-args/license.md
+├─ progress@1.1.8
+│  ├─ licenses: MIT*
+│  ├─ repository: https://github.com/visionmedia/node-progress
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/progress/LICENSE
+├─ promzard@0.3.0
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/isaacs/promzard
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/npm/node_modules/init-package-json/node_modules/promzard/LICENSE
+├─ proto-list@1.2.4
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/isaacs/proto-list
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/npm/node_modules/config-chain/node_modules/proto-list/LICENSE
+├─ qs@6.1.0
+│  ├─ licenses: BSD-3-Clause
+│  ├─ repository: https://github.com/ljharb/qs
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/qs/LICENSE
+├─ rc@1.1.6
+│  ├─ licenses: (BSD-2-Clause OR MIT OR Apache-2.0)
+│  ├─ repository: https://github.com/dominictarr/rc
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/rc/LICENSE.MIT
+├─ read-all-stream@3.1.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/floatdrop/read-all-stream
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/read-all-stream/license
+├─ read-cmd-shim@1.0.1
+│  ├─ licenses: ISC
+│  └─ repository: https://github.com/npm/read-cmd-shim
+├─ read-installed@4.0.3
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/isaacs/read-installed
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/npm/node_modules/read-installed/LICENSE
+├─ read-json-sync@1.1.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/shinnn/read-json-sync
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/read-json-sync/LICENSE
+├─ read-package-json@2.0.4
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/npm/read-package-json
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/npm/node_modules/read-package-json/LICENSE
+├─ read-package-tree@5.1.5
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/npm/read-package-tree
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/npm/node_modules/read-package-tree/LICENSE
+├─ read@1.0.7
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/isaacs/read
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/read/LICENSE
+├─ readable-stream@1.0.34
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/isaacs/readable-stream
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/hyperquest/node_modules/readable-stream/LICENSE
+├─ readable-stream@1.1.14
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/isaacs/readable-stream
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/htmlparser2/node_modules/readable-stream/LICENSE
+├─ readable-stream@2.0.6
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/nodejs/readable-stream
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/readable-stream/LICENSE
+├─ readable-stream@2.1.4
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/nodejs/readable-stream
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/npm/node_modules/readable-stream/LICENSE
+├─ readdir-scoped-modules@1.0.2
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/npm/readdir-scoped-modules
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/npm/node_modules/readdir-scoped-modules/LICENSE
+├─ readline2@1.0.1
+│  ├─ licenses: MIT
+│  └─ repository: https://github.com/sboudrias/readline2
+├─ realize-package-specifier@3.0.3
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/npm/realize-package-specifier
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/npm/node_modules/realize-package-specifier/LICENSE
+├─ registry-url@3.1.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/registry-url
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/registry-url/license
+├─ repeat-string@1.5.4
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jonschlinkert/repeat-string
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/repeat-string/LICENSE
+├─ repeating@1.1.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/repeating
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/repeating/license
+├─ request@2.72.0
+│  ├─ licenses: Apache-2.0
+│  ├─ repository: https://github.com/request/request
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/request/LICENSE
+├─ require-dir@0.3.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/aseemk/requireDir
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/require-dir/LICENSE
+├─ require-uncached@1.0.2
+│  ├─ licenses: MIT
+│  └─ repository: https://github.com/sindresorhus/require-uncached
+├─ resolve-from@1.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/resolve-from
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/resolve-from/license
+├─ resolve@1.1.7
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/substack/node-resolve
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/resolve/LICENSE
+├─ restore-cursor@1.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/restore-cursor
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/restore-cursor/license
+├─ retry@0.8.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/tim-kos/node-retry
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/npm/node_modules/npm-registry-client/node_modules/retry/License
+├─ retry@0.9.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/tim-kos/node-retry
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/npm/node_modules/retry/License
+├─ right-align@0.1.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jonschlinkert/right-align
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/right-align/LICENSE
+├─ rimraf@2.5.2
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/isaacs/rimraf
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/rimraf/LICENSE
+├─ run-async@0.1.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/SBoudrias/run-async
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/run-async/LICENSE
+├─ rx-lite@3.1.2
+│  ├─ licenses: Apache License, Version 2.0
+│  └─ repository: https://github.com/Reactive-Extensions/RxJS
+├─ sax@1.2.1
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/isaacs/sax-js
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/sax/LICENSE-W3C.html
+├─ semver-diff@2.1.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/semver-diff
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/semver-diff/license
+├─ semver-utils@1.1.1
+│  ├─ licenses: APACHEv2
+│  └─ repository: https://github.com/coolaj86/semver-utils
+├─ semver@4.3.6
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/npm/node-semver
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/npmi/node_modules/semver/LICENSE
+├─ semver@5.1.0
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/npm/node-semver
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/npm/node_modules/semver/LICENSE
+├─ semver@5.2.0
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/npm/node-semver
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/semver/LICENSE
+├─ set-blocking@2.0.0
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/yargs/set-blocking
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/npm/node_modules/npmlog/node_modules/set-blocking/LICENSE.txt
+├─ sha@2.0.1
+│  ├─ licenses: (BSD-2-Clause OR MIT)
+│  ├─ repository: https://github.com/ForbesLindesay/sha
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/npm/node_modules/sha/LICENSE
+├─ shelljs@0.6.0
+│  ├─ licenses: BSD-3-Clause
+│  ├─ repository: https://github.com/shelljs/shelljs
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/shelljs/LICENSE
+├─ sigmund@1.0.1
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/isaacs/sigmund
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/sigmund/LICENSE
+├─ signal-exit@3.0.0
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/tapjs/signal-exit
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/npm/node_modules/npmlog/node_modules/gauge/node_modules/signal-exit/LICENSE.txt
+├─ slice-ansi@0.0.4
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/chalk/slice-ansi
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/slice-ansi/license
+├─ slide@1.1.6
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/isaacs/slide-flow-control
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/slide/LICENSE
+├─ sntp@1.0.9
+│  ├─ licenses: BSD
+│  ├─ repository: https://github.com/hueniverse/sntp
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/sntp/LICENSE
+├─ sorted-object@2.0.0
+│  ├─ licenses: WTFPL
+│  ├─ repository: https://github.com/domenic/sorted-object
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/npm/node_modules/sorted-object/LICENSE.txt
+├─ source-map@0.2.0
+│  ├─ licenses: BSD
+│  ├─ repository: https://github.com/mozilla/source-map
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/source-map/LICENSE
+├─ source-map@0.4.4
+│  ├─ licenses: BSD-3-Clause
+│  └─ repository: https://github.com/mozilla/source-map
+├─ source-map@0.5.6
+│  ├─ licenses: BSD-3-Clause
+│  ├─ repository: https://github.com/mozilla/source-map
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/uglify-js/node_modules/source-map/LICENSE
+├─ spawn-please@0.1.0
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/metaraine/spawn-please
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/spawn-please/LICENSE
+├─ spdx-correct@1.0.2
+│  ├─ licenses: Apache-2.0
+│  ├─ repository: https://github.com/kemitchell/spdx-correct.js
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/npm/node_modules/validate-npm-package-license/node_modules/spdx-correct/LICENSE
+├─ spdx-exceptions@1.0.4
+│  ├─ licenses: CC-BY-3.0
+│  └─ repository: https://github.com/kemitchell/spdx-exceptions.json
+├─ spdx-expression-parse@1.0.2
+│  ├─ licenses: (MIT AND CC-BY-3.0)
+│  ├─ repository: https://github.com/kemitchell/spdx-expression-parse.js
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/npm/node_modules/validate-npm-package-license/node_modules/spdx-expression-parse/LICENSE
+├─ spdx-license-ids@1.2.0
+│  ├─ licenses: Unlicense
+│  ├─ repository: https://github.com/shinnn/spdx-license-ids
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/npm/node_modules/validate-npm-package-license/node_modules/spdx-correct/node_modules/spdx-license-ids/spdx-license-ids.json
+├─ split2@1.1.1
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/mcollina/split2
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/split2/LICENSE
+├─ sprintf-js@1.0.3
+│  ├─ licenses: BSD-3-Clause
+│  ├─ repository: https://github.com/alexei/sprintf.js
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/sprintf-js/LICENSE
+├─ sshpk@1.8.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/arekinath/node-sshpk
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/sshpk/LICENSE
+├─ string-length@1.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/string-length
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/string-length/license
+├─ string-width@1.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/string-width
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/string-width/license
+├─ string_decoder@0.10.31
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/rvagg/string_decoder
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/string_decoder/LICENSE
+├─ stringstream@0.0.5
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/mhart/StringStream
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/stringstream/LICENSE.txt
+├─ strip-ansi@0.1.1
+│  ├─ licenses: MIT
+│  └─ repository: https://github.com/sindresorhus/strip-ansi
+├─ strip-ansi@3.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/chalk/strip-ansi
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/strip-ansi/license
+├─ strip-json-comments@1.0.4
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/strip-json-comments
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/strip-json-comments/license
+├─ supports-color@1.2.0
+│  ├─ licenses: MIT
+│  └─ repository: https://github.com/sindresorhus/supports-color
+├─ supports-color@2.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/chalk/supports-color
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/supports-color/license
+├─ supports-color@3.1.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/chalk/supports-color
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/istanbul/node_modules/supports-color/license
+├─ symbol-tree@3.1.4
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jsdom/js-symbol-tree
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/symbol-tree/LICENSE
+├─ table@3.7.8
+│  ├─ licenses: BSD-3-Clause
+│  ├─ repository: https://github.com/gajus/table
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/table/LICENSE
+├─ taffydb@2.7.2
+│  ├─ licenses: BSD*
+│  └─ repository: https://github.com/typicaljoe/taffydb
+├─ tar@2.2.1
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/isaacs/node-tar
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/npm/node_modules/tar/LICENSE
+├─ text-table@0.2.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/substack/text-table
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/text-table/LICENSE
+├─ through2@0.6.5
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/rvagg/through2
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/hyperquest/node_modules/through2/LICENSE
+├─ through2@2.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/rvagg/through2
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/through2/LICENSE
+├─ through@2.3.8
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/dominictarr/through
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/through/LICENSE.MIT
+├─ timed-out@2.0.0
+│  ├─ licenses: MIT
+│  └─ repository: https://github.com/floatdrop/timed-out
+├─ to-iso-string@0.0.2
+│  ├─ licenses: MIT
+│  └─ repository: https://github.com/segmentio/to-iso-string
+├─ tough-cookie@2.2.2
+│  ├─ licenses: BSD-3-Clause
+│  ├─ repository: https://github.com/SalesforceEng/tough-cookie
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/tough-cookie/LICENSE
+├─ tr46@0.0.3
+│  ├─ licenses: MIT
+│  └─ repository: https://github.com/Sebmaster/tr46.js
+├─ tryit@1.0.2
+│  ├─ licenses: MIT
+│  └─ repository: https://github.com/HenrikJoreteg/tryit
+├─ tunnel-agent@0.4.3
+│  ├─ licenses: Apache-2.0
+│  ├─ repository: https://github.com/mikeal/tunnel-agent
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/tunnel-agent/LICENSE
+├─ tv4@1.2.7
+│  ├─ licenses: UNKNOWN
+│  ├─ repository: https://github.com/geraintluff/tv4
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/tv4/LICENSE.txt
+├─ tweetnacl@0.13.3
+│  ├─ licenses: Public domain
+│  └─ repository: https://github.com/dchest/tweetnacl-js
+├─ type-check@0.3.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/gkz/type-check
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/type-check/LICENSE
+├─ type-detect@0.1.1
+│  ├─ licenses: MIT
+│  └─ repository: https://github.com/chaijs/type-detect
+├─ type-detect@1.0.0
+│  ├─ licenses: MIT
+│  └─ repository: https://github.com/chaijs/type-detect
+├─ typedarray@0.0.6
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/substack/typedarray
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/typedarray/LICENSE
+├─ uglify-js@2.6.4
+│  ├─ licenses: BSD-2-Clause
+│  ├─ repository: https://github.com/mishoo/UglifyJS2
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/uglify-js/LICENSE
+├─ uglify-to-browserify@1.0.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/ForbesLindesay/uglify-to-browserify
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/uglify-to-browserify/LICENSE
+├─ uid-number@0.0.6
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/isaacs/uid-number
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/npm/node_modules/uid-number/LICENSE
+├─ umask@1.1.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/smikes/umask
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/npm/node_modules/umask/LICENSE
+├─ underscore@1.6.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jashkenas/underscore
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/underscore/LICENSE
+├─ unique-filename@1.1.0
+│  ├─ licenses: ISC
+│  └─ repository: https://github.com/iarna/unique-filename
+├─ unique-slug@2.0.0
+│  ├─ licenses: ISC
+│  └─ repository: https://github.com/iarna/unique-slug
+├─ unpipe@1.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/stream-utils/unpipe
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/npm/node_modules/unpipe/LICENSE
+├─ update-notifier@0.5.0
+│  ├─ licenses: BSD-2-Clause
+│  └─ repository: https://github.com/yeoman/update-notifier
+├─ user-home@2.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/user-home
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/user-home/license
+├─ util-deprecate@1.0.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/TooTallNate/util-deprecate
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/util-deprecate/LICENSE
+├─ util-extend@1.0.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/isaacs/util-extend
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/npm/node_modules/read-installed/node_modules/util-extend/LICENSE
+├─ uuid@2.0.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/shtylman/node-uuid
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/uuid/LICENSE.md
+├─ validate-npm-package-license@3.0.1
+│  ├─ licenses: Apache-2.0
+│  ├─ repository: https://github.com/kemitchell/validate-npm-package-license.js
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/npm/node_modules/validate-npm-package-license/LICENSE
+├─ validate-npm-package-name@2.2.2
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/npm/validate-npm-package-name
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/npm/node_modules/validate-npm-package-name/LICENSE
+├─ verror@1.3.6
+│  ├─ licenses: MIT*
+│  ├─ repository: https://github.com/davepacheco/node-verror
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/verror/LICENSE
+├─ wcwidth@1.0.0
+│  ├─ licenses: MIT
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/npm/node_modules/columnify/node_modules/wcwidth/LICENSE
+├─ webidl-conversions@2.0.1
+│  ├─ licenses: BSD-2-Clause
+│  ├─ repository: https://github.com/jsdom/webidl-conversions
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/webidl-conversions/LICENSE.md
+├─ whatwg-url-compat@0.6.5
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jsdom/whatwg-url
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/whatwg-url-compat/LICENSE.txt
+├─ which@1.2.10
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/isaacs/node-which
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/npm/node_modules/which/LICENSE
+├─ wide-align@1.1.0
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/iarna/wide-align
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/npm/node_modules/npmlog/node_modules/gauge/node_modules/wide-align/LICENSE
+├─ window-size@0.1.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jonschlinkert/window-size
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/window-size/LICENSE-MIT
+├─ wordwrap@0.0.2
+│  ├─ licenses: MIT/X11
+│  └─ repository: https://github.com/substack/node-wordwrap
+├─ wordwrap@0.0.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/substack/node-wordwrap
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/wordwrap/LICENSE
+├─ wordwrap@1.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/substack/node-wordwrap
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/eslint/node_modules/wordwrap/LICENSE
+├─ wrappy@1.0.2
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/npm/wrappy
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/wrappy/LICENSE
+├─ write-file-atomic@1.1.4
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/iarna/write-file-atomic
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/write-file-atomic/LICENSE
+├─ write@0.2.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jonschlinkert/write
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/write/LICENSE
+├─ xdg-basedir@2.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/xdg-basedir
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/xdg-basedir/license
+├─ xml-name-validator@2.0.1
+│  ├─ licenses: WTFPL
+│  ├─ repository: https://github.com/jsdom/xml-name-validator
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/xml-name-validator/LICENSE.txt
+├─ xregexp@3.1.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/slevithan/xregexp
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/xregexp/LICENSE
+├─ xtend@4.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/Raynos/xtend
+│  └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/xtend/LICENCE
+└─ yargs@3.10.0
+   ├─ licenses: MIT
+   ├─ repository: https://github.com/bcoe/yargs
+   └─ licenseFile: /Users/jyoung/dev/cnn-markdown-service/node_modules/yargs/LICENSE
+```
