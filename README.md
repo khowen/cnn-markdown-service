@@ -10,7 +10,7 @@
 
 Read these "_requirements_" as "_only tested with_".
 
-- [Node.js](https://nodejs.org/) 4.x+
+- [Node.js](https://nodejs.org/) LTS or higher
 
 
 
