@@ -144,6 +144,13 @@ describe('Markdown Service', () => {
         response.should.equal(expectedResponse);
     });
 
+    it.only('should properly escape astericks (*) that are intentional and properly work with <strong> tag conversion', () => {
+        const response = this.markdownService.format('<strong>* foo</strong>'),
+            expectedResponse = '**\\* foo**';
+
+        response.should.equal(expectedResponse);
+    });
+
     it('should remove <sub> tags since there is no markdown equivalent', () => {
         const response = this.markdownService.format('<sub>foo</sub>'),
             expectedResponse = 'foo';
