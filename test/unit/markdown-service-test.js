@@ -144,12 +144,20 @@ describe('Markdown Service', () => {
         response.should.equal(expectedResponse);
     });
 
-    it('should properly escape astericks (*) that are intentional and properly work with <strong> tag conversion', () => {
-        const response = this.markdownService.format('<strong>* foo</strong>'),
-            expectedResponse = '**\\* foo**';
+    it('should properly escape asterisks (*) that are intentional and properly work inside a <strong> tag', () => {
+        const response = this.markdownService.format('<strong>*foo</strong>'),
+            expectedResponse = '**\\*foo**';
 
         response.should.equal(expectedResponse);
     });
+
+    it('should properly escape asterisks (*) that are intentional and properly work outside a <strong> tag', () => {
+        const response = this.markdownService.format('*<strong>foo</strong>'),
+            expectedResponse = '\\***foo**';
+
+        response.should.equal(expectedResponse);
+    });
+
 
     it('should remove <sub> tags since there is no markdown equivalent', () => {
         const response = this.markdownService.format('<sub>foo</sub>'),
@@ -193,7 +201,7 @@ describe('Markdown Service', () => {
         response.should.equal(expectedResponse);
     });
 
-    it('should convert <strong> tags to two astericks (**)', () => {
+    it('should convert <strong> tags to two asterisks (**)', () => {
         const response = this.markdownService.format('<strong>foo</strong>'),
             expectedResponse = '**foo**';
 
