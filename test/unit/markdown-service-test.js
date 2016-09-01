@@ -293,4 +293,39 @@ describe('Markdown Service', () => {
         response.should.be.an('object');
         response.should.deep.equal(expectedResponse);
     });
+
+    it('should remove </li> tags', () => {
+        const response = this.markdownService.format('<li>Foo</li>'),
+            expectedResponse = '<li>Foo';
+
+        response.should.equal(expectedResponse);
+    });
+
+    it('should remove <li> in a <ol> and add \\n\\n before numeral', () => {
+        const response = this.markdownService.format('<ol><li>1. Foo</li><li>2. Bar</li></ol>'),
+            expectedResponse = '\n\n1. Foo\n\n2. Bar';
+
+        response.should.equal(expectedResponse);
+    });
+
+    it('should change <li> in a <ul> to \\n\\n- ', () => {
+        const response = this.markdownService.format('<ul><li>Foo</li><li>Bar</li></ul>'),
+            expectedResponse = '\n\n- Foo\n\n- Bar';
+
+        response.should.equal(expectedResponse);
+    });
+
+    it('should remove <ol> tags', () => {
+        const response = this.markdownService.format('<ol></ol>'),
+            expectedResponse = '';
+
+        response.should.equal(expectedResponse);
+    });
+
+    it('should remove <ul> tags', () => {
+        const response = this.markdownService.format('<ul></ul>'),
+            expectedResponse = '';
+
+        response.should.equal(expectedResponse);
+    });
 });
