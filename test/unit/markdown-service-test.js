@@ -278,6 +278,20 @@ describe('Markdown Service', () => {
         response.should.equal(expectedResponse);
     });
 
+    it('should convert single digit numbered lists to add \\\\ between the digit and the digit\'s "."', () => {
+        const response = this.markdownService.format('1. Foo'),
+            expectedResponse = '1\\\\. Foo';
+
+        response.should.equal(expectedResponse);
+    });
+
+    it('should convert double digit numbered lists to add \\\\ between the digit and the digit\'s "."', () => {
+        const response = this.markdownService.format('11. Foo'),
+            expectedResponse = '11\\\\. Foo';
+
+        response.should.equal(expectedResponse);
+    });
+
     it('should return what was passed in if it is not a string, like an array', () => {
         const response = this.markdownService.format(['foo', 'bar']),
             expectedResponse = ['foo', 'bar'];
