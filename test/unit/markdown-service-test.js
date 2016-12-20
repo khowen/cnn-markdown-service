@@ -286,8 +286,57 @@ describe('Markdown Service', () => {
     });
 
     it('should convert double digit numbered lists to add \\\\ between the digit and the digit\'s "."', () => {
-        const response = this.markdownService.format('11. Foo'),
-            expectedResponse = '11\\. Foo';
+        const response = this.markdownService.format('12. Foo'),
+            expectedResponse = '12\\. Foo';
+
+        response.should.equal(expectedResponse);
+    });
+
+    it('should convert a triple digit numbered lists to add \\\\ between the digit and the digit\'s "."', () => {
+        const response = this.markdownService.format('123. Foo'),
+            expectedResponse = '123\\. Foo';
+
+        response.should.equal(expectedResponse);
+    });
+
+    it('should convert a four digit numbered lists to add \\\\ between the digit and the digit\'s "."', () => {
+        const response = this.markdownService.format('1234. Foo'),
+            expectedResponse = '1234\\. Foo';
+
+        response.should.equal(expectedResponse);
+    });
+
+    it('should not alter a string with a single digit number that is not a numbered list', () => {
+        const response = this.markdownService.format('1 Foo'),
+            expectedResponse = '1 Foo';
+
+        response.should.equal(expectedResponse);
+    });
+
+    it('should not alter a string with a double digit number that is not a numbered list', () => {
+        const response = this.markdownService.format('12 Foo'),
+            expectedResponse = '12 Foo';
+
+        response.should.equal(expectedResponse);
+    });
+
+    it('should not alter a string with a tripel digit number that is not a numbered list', () => {
+        const response = this.markdownService.format('123 Foo'),
+            expectedResponse = '123 Foo';
+
+        response.should.equal(expectedResponse);
+    });
+
+    it('should not alter a string with a four digit number that is not a numbered list', () => {
+        const response = this.markdownService.format('1234 Foo'),
+            expectedResponse = '1234 Foo';
+
+        response.should.equal(expectedResponse);
+    });
+
+    it('should not alter a string with a four digit number at end that is not a numbered list', () => {
+        const response = this.markdownService.format('Foo 1234'),
+            expectedResponse = 'Foo 1234';
 
         response.should.equal(expectedResponse);
     });
