@@ -62,6 +62,8 @@ const MarkdownService = require('../lib/markdown-service.js'),
         'Journalists shouldn\'t take a position. It makes sense. Objectivity is king. But, at some point, open questions do get answered. At some point, contentious issues do get resolved. At some point, common sense prevails.',
         'So, here it is: We should legalize medical marijuana. We should do it nationally. And, we should do it now.',
         '<a href="http://money.cnn.com/2015/04/13/news/pot-marijuana-facts/" target="_blank">9 things to know about legal pot</a>',
+        '2. "Hillary Clinton as you know, as most people know, she\'s a world class liar."',
+        '12. "Hillary Clinton as you know, as most people know, she\'s a world class liar."',
         '<ul><li>"Eclipsed"</li><li>"The Father"</li><li>*"The Humans"</li><li>"King Charles III"</li></ul>',
         '<ol><li>1. "I have this old fashioned idea that if you are running for president, you should say what you want to do."</li><li>2. "He calls himself the \'King of Debt.\' And his tax plan sure lives up to the name."</li></ol>'
     ];

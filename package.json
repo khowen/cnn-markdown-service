@@ -1,6 +1,6 @@
 {
   "name": "cnn-markdown-service",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "CNN Markdown Service",
   "main": "lib/markdown-service.js",
   "directories": {
