@@ -280,14 +280,14 @@ describe('Markdown Service', () => {
 
     it('should convert single digit numbered lists to add \\\\ between the digit and the digit\'s "."', () => {
         const response = this.markdownService.format('1. Foo'),
-            expectedResponse = '1\\\\. Foo';
+            expectedResponse = '1\\. Foo';
 
         response.should.equal(expectedResponse);
     });
 
     it('should convert double digit numbered lists to add \\\\ between the digit and the digit\'s "."', () => {
         const response = this.markdownService.format('11. Foo'),
-            expectedResponse = '11\\\\. Foo';
+            expectedResponse = '11\\. Foo';
 
         response.should.equal(expectedResponse);
     });
@@ -306,5 +306,12 @@ describe('Markdown Service', () => {
 
         response.should.be.an('object');
         response.should.deep.equal(expectedResponse);
+    });
+
+    it('should convert <del></del> tags to ~~ before and after the string', () => {
+        const response = this.markdownService.format('<del>Foo</del>'),
+            expectedResponse = '~~Foo~~';
+
+        response.should.equal(expectedResponse);
     });
 });
