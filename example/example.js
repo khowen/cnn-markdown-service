@@ -69,7 +69,7 @@ const MarkdownService = require('../lib/markdown-service.js'),
         '1 presidential candidates speak out on gay marriage ruling',
         '12 presidential candidates speak out on gay marriage ruling',
         '123 presidential candidates speak out on gay marriage ruling',
-        '1234 presidential candidates speak out on gay marriage ruling'
+        '1234 presidential candidates speak out on gay marriage ruling',
         '<del>Kristina Sivkova (4x100m)</del>'
     ];
 
