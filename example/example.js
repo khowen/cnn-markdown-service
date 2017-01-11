@@ -65,7 +65,8 @@ const MarkdownService = require('../lib/markdown-service.js'),
         '2. "Hillary Clinton as you know, as most people know, she\'s a world class liar."',
         '12. "Hillary Clinton as you know, as most people know, she\'s a world class liar."',
         '<ul><li>"Eclipsed"</li><li>"The Father"</li><li>*"The Humans"</li><li>"King Charles III"</li></ul>',
-        '<ol><li>1. "I have this old fashioned idea that if you are running for president, you should say what you want to do."</li><li>2. "He calls himself the \'King of Debt.\' And his tax plan sure lives up to the name."</li></ol>'
+        '<ol><li>1. "I have this old fashioned idea that if you are running for president, you should say what you want to do."</li><li>2. "He calls himself the \'King of Debt.\' And his tax plan sure lives up to the name."</li></ol>',
+        '<del>Kristina Sivkova (4x100m)</del>'
     ];
 
 paragraphs.forEach((paragraph) => {

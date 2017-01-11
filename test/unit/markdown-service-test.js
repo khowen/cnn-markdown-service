@@ -342,4 +342,11 @@ describe('Markdown Service', () => {
 
         response.should.equal(expectedResponse);
     });
+
+    it('should convert <del></del> tags to ~~ before and after the string', () => {
+        const response = this.markdownService.format('<del>Foo</del>'),
+            expectedResponse = '~~Foo~~';
+
+        response.should.equal(expectedResponse);
+    });
 });
