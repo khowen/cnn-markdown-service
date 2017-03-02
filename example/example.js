@@ -66,6 +66,12 @@ const MarkdownService = require('../lib/markdown-service.js'),
         '12. "Hillary Clinton as you know, as most people know, she\'s a world class liar."',
         '<ul><li>"Eclipsed"</li><li>"The Father"</li><li>*"The Humans"</li><li>"King Charles III"</li></ul>',
         '<ol><li>1. "I have this old fashioned idea that if you are running for president, you should say what you want to do."</li><li>2. "He calls himself the \'King of Debt.\' And his tax plan sure lives up to the name."</li></ol>',
+        '123. "Hillary Clinton as you know, as most people know, she\'s a world class liar."',
+        '124. "Hillary Clinton as you know, as most people know, she\'s a world class liar."',
+        '1 presidential candidates speak out on gay marriage ruling',
+        '12 presidential candidates speak out on gay marriage ruling',
+        '123 presidential candidates speak out on gay marriage ruling',
+        '1234 presidential candidates speak out on gay marriage ruling',
         '<del>Kristina Sivkova (4x100m)</del>'
     ];
 
